@@ -1,7 +1,7 @@
 # Task-Management-System
 
 ## Video Demonstration
-![Video]([videos/Task Management System Demo Video.mp4](https://github.com/pratikdeoke/Task-Management-System/blob/main/videos/Task%20Management%20System%20Demo%20Video.mp4))
+[Video]([videos/Task Management System Demo Video.mp4](https://github.com/pratikdeoke/Task-Management-System/blob/main/videos/Task%20Management%20System%20Demo%20Video.mp4))
 
 ## Here are some screenshots of the task management system:
 ![Daily Tasks Image](https://github.com/pratikdeoke/Task-Management-System/blob/main/screenshots/homepage_a.png)
